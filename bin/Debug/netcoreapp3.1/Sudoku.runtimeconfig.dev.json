@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vujov\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vujov\\.nuget\\packages"
+    ]
+  }
+}

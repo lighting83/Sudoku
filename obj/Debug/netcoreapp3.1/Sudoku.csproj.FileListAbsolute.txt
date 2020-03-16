@@ -1,0 +1,11 @@
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.exe
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.deps.json
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.json
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.dev.json
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.dll
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.pdb
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.csprojAssemblyReference.cache
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfoInputs.cache
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfo.cs
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.dll
+C:\Users\vujov\OneDrive\Desktop\Programiranje\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.pdb
